@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+agents.md
+README.md
+resources/files/*.pdf
+.DS_Store
+.faiss
+.pkl
+document_cache.json
+faiss_index
+resources/*
